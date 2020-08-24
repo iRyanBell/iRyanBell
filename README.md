@@ -1,7 +1,7 @@
 # Ryan Bell (@iRyanBell)
 Hi, I'm Ryan-a senior full-stack engineer/digital media consultant with a passion for beautiful code and functional design. I'm also a huge procedural artwork nerd, a nutrient-dense ancestral diet aficionado, and a studio guitarist.
 
-## Get in touch
+## Get in Touch
 🐦 Twitter: https://twitter.com/iRyanBell<br>
 🔗 LinkedIn: https://linkedin.com/in/iRyanBell<br>
 ✉️ Email: ryan@iRyanBell.com
