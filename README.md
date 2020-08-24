@@ -16,3 +16,7 @@ What started out as a small referral-based business soon grew into a digital med
 
 Read about our services here 👇   
 https://vimsocial.com/VIM_Social_Media-2020_Media_Kit.pdf
+
+## Talking Shop:
+[Profitable Python - Tales of a Prolific App Developer](https://anchor.fm/profitablepythonfm/episodes/Tales-of-a-Prolific-App-Developer--Ryan-Bell-efui64)    
+[Wired Magazine - Inside Pioneer: May the Best Silicon Valley Hustler Win](https://www.wired.com/story/inside-pioneer-best-silicon-valley-hustler-win/)
