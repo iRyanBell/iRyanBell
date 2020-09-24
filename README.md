@@ -20,3 +20,7 @@ https://vimsocial.com/VIM_Social_Media-2020_Media_Kit.pdf
 ## Talking Shop:
 [Profitable Python - Tales of a Prolific App Developer](https://anchor.fm/profitablepythonfm/episodes/Tales-of-a-Prolific-App-Developer--Ryan-Bell-efui64)    
 [Wired Magazine - Inside Pioneer: May the Best Silicon Valley Hustler Win](https://www.wired.com/story/inside-pioneer-best-silicon-valley-hustler-win/)
+
+## Stats:
+![](https://github-readme-stats.vercel.app/api?username=iryanbell&show_icons=true&count_private=true&include_all_commits=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=iRyanBell)
