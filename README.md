@@ -18,6 +18,7 @@ Read about our services here 👇
 https://vimsocial.com/VIM_Social_Media-2020_Media_Kit.pdf
 
 ## Talking Shop:
+[97 Things Every Cloud Engineer Should Know (Book)](https://learning.oreilly.com/library/view/97-things-every/9781492076728/ch64.html#your_greatest_products_are_not_the_appl)
 [HackFS Kickstarts Project Development in Web 3.0](https://www.youtube.com/watch?v=H_3Z1XRELsY)    
 [Profitable Python - Tales of a Prolific App Developer](https://anchor.fm/profitablepythonfm/episodes/Tales-of-a-Prolific-App-Developer--Ryan-Bell-efui64)    
 [Wired Magazine - Inside Pioneer: May the Best Silicon Valley Hustler Win](https://www.wired.com/story/inside-pioneer-best-silicon-valley-hustler-win/)
